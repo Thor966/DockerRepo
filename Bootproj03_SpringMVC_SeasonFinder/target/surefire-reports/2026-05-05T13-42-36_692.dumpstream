@@ -1,0 +1,5 @@
+# Created at 2026-05-05T13:42:37.491
+Boot Manifest-JAR contains absolute paths in classpath 'D:\DockerRepo2\Bootproj03_SpringMVC_SeasonFinder\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
